@@ -13,10 +13,11 @@
     "time": 991,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1037,
+    "timeMonth": 1029,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2022-11-12": 83,
+      "2022-11-13": 84,
+      "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
@@ -107,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 103,
-    "timeWeek": 197,
-    "timeMonth": 300,
-    "timeYear": 252,
+    "time": 251,
+    "timeDay": 134,
+    "timeWeek": 198,
+    "timeMonth": 283,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   }
 ]
